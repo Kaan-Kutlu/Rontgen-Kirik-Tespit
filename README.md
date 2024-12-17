@@ -2,8 +2,8 @@
 
 Bu proje, röntgen görüntülerini analiz ederek kemik kırıklarını veya çatlaklarını otomatik olarak tespit etmeyi amaçlar. Tıbbi tanı süreçlerini desteklemek üzere görüntü işleme teknikleri kullanılmış ve kırık bölgelerin kare içinde gösterilmesi sağlanmıştır.
 
-<img src=Figure_1.png width=50%>
-<img src=Figure_2.png width=50%>
+<img src=Figure_1.png width=90%>
+<img src=Figure_2.png width=90%>
 
 ## Özellikler
 - Histogram eşitlemesi ile kontrast iyileştirme.
